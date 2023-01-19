@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página agregadora de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://karenmelo.github.io/my-profile/)
 
 Esse projeto está sob a licença MIT.
 
